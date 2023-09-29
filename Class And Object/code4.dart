@@ -13,8 +13,10 @@ class demo{
 
 void main(){
 
-demo obj=new demo();
-  obj.info();
-  print(obj.x);
-  print(obj.str);
+//demo obj=new demo();
+  info();
+  print(x);
+  print(str);
 }
+
+// error..
