@@ -34,12 +34,9 @@ class child extends parent{
   }
 }
 
-class client{
-
   void main(){
 
     child obj=new child();
     obj.printdata();
     obj.childprintdata();
   }
-}
